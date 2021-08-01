@@ -23,8 +23,8 @@
 
     <div class="hero min-h-screen bg-base-200">
         <div class="text-center hero-content grid grid-cols-1 lg:grid-cols-2 gap-5">
-
-            <img src="{{ asset('images/g898.png') }}" class="max-w-full w-1/3 mb-4">
+            
+            <img src="{{ asset('images/g898.png') }}" class="max-w-full sm:max-w-sm mb-4">
 
             <div class="card glass lg:card-side text-neutral-content">
                 <div class="max-w-md card-body">
