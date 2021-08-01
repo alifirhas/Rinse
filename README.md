@@ -1,6 +1,7 @@
 # Rinse
-
-<!-- ![Project Image](project-image-url) -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/32509276/127775982-4185923c-3ebf-40d5-bbc1-05d5f4ba38ff.png" width="200">
+</p>
 
 <!-- --- -->
 
